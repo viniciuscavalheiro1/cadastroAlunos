@@ -1,0 +1,16 @@
+/home/vinicius/dotnet/CadAluno/bin/Debug/net5.0/CadAluno
+/home/vinicius/dotnet/CadAluno/bin/Debug/net5.0/CadAluno.deps.json
+/home/vinicius/dotnet/CadAluno/bin/Debug/net5.0/CadAluno.runtimeconfig.json
+/home/vinicius/dotnet/CadAluno/bin/Debug/net5.0/CadAluno.runtimeconfig.dev.json
+/home/vinicius/dotnet/CadAluno/bin/Debug/net5.0/CadAluno.dll
+/home/vinicius/dotnet/CadAluno/bin/Debug/net5.0/ref/CadAluno.dll
+/home/vinicius/dotnet/CadAluno/bin/Debug/net5.0/CadAluno.pdb
+/home/vinicius/dotnet/CadAluno/obj/Debug/net5.0/CadAluno.csproj.AssemblyReference.cache
+/home/vinicius/dotnet/CadAluno/obj/Debug/net5.0/CadAluno.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinicius/dotnet/CadAluno/obj/Debug/net5.0/CadAluno.AssemblyInfoInputs.cache
+/home/vinicius/dotnet/CadAluno/obj/Debug/net5.0/CadAluno.AssemblyInfo.cs
+/home/vinicius/dotnet/CadAluno/obj/Debug/net5.0/CadAluno.csproj.CoreCompileInputs.cache
+/home/vinicius/dotnet/CadAluno/obj/Debug/net5.0/CadAluno.dll
+/home/vinicius/dotnet/CadAluno/obj/Debug/net5.0/ref/CadAluno.dll
+/home/vinicius/dotnet/CadAluno/obj/Debug/net5.0/CadAluno.pdb
+/home/vinicius/dotnet/CadAluno/obj/Debug/net5.0/CadAluno.genruntimeconfig.cache
